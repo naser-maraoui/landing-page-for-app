@@ -1,0 +1,21 @@
+{
+  "name": "Cosmos Event",
+  "short_name": "Cosmos",
+  "description": "Discover, create, and attend events with Cosmos Event",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#5b21b6",
+  "icons": [
+    {
+      "src": "/icon-192x192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/icon-512x512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}
